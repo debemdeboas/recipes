@@ -1,5 +1,11 @@
 # EASY TAPIOCA
 
+This is a very, very basic tapioca recipe.
+It's heavily encouraged that you adapt this recipe to your personal cooking style.
+If you want to use a smaller pan, use less tapioca flour.
+If you want more butter, grate more butter.
+Try, fail, cook.
+
 ## Ingredients:
 
 For the base layer:
